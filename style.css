@@ -1,0 +1,17 @@
+
+
+.container{
+    width: 100%;
+    position: relative;
+    height: 500px;
+}
+.container img{
+    width: 100%;
+}
+.move{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
